@@ -1,0 +1,14 @@
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.exe
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.deps.json
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.runtimeconfig.json
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.dll
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\bin\Debug\net9.0\OperadoresLogicos.pdb
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.AssemblyInfoInputs.cache
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.AssemblyInfo.cs
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.dll
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\obj\Debug\net9.0\refint\OperadoresLogicos.dll
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.pdb
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\obj\Debug\net9.0\OperadoresLogicos.genruntimeconfig.cache
+C:\Users\Giancarlo\programacao\DOTNET4\OperadoresLogicos\obj\Debug\net9.0\ref\OperadoresLogicos.dll
