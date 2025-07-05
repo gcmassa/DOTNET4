@@ -83,7 +83,7 @@ else
 
 | Operador | Nome       | Exemplo     | Significado                                                                 |
 |----------|------------|-------------|------------------------------------------------------------------------------|
-| `||`     | OR         | `A || B`    | Verdadeiro se **pelo menos uma** das condições for verdadeira               |
+| `\|\|`     | OR         | `A \|\| B`    | Verdadeiro se **pelo menos uma** das condições for verdadeira               |
 | `&&`     | AND        | `A && B`    | Verdadeiro **somente se ambas** as condições forem verdadeiras              |
 | `!`      | NOT        | `!A`        | Inverte o valor lógico (se `A` é `true`, `!A` é `false`, e vice-versa)       |
 
