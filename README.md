@@ -89,4 +89,3 @@ else
 
 ---
 
-Se quiser, posso adicionar exemplos com entrada do usuário ou transformar isso em um mini projeto interativo. Quer seguir por esse caminho? 🚀
